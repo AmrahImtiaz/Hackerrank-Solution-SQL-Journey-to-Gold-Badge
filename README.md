@@ -1,0 +1,1 @@
+# Hackerrank-Solution-SQL-Journey-to-Gold-Badge
